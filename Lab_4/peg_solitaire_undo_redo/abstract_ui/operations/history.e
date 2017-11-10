@@ -1,84 +1,31 @@
-note
-	description: "A history of executed commands."
-	author: ""
-	date: "$Date$"
-	revision: "$Revision$"
+EnCt2c9989b5a52b472cb42ce5c15335f2112ee55efd1c9989b5a52b472cb42ce5c15AP05AAo=YAJ
+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
+mcQg9cC3t+fEqIwEmS
 
-class
-	HISTORY
-
-create
-	make
-
-feature {SOLITAIRE_USER_INTERFACE}
-	make
-		do
-			-- Hint. Consider instantiating the history
-			-- using an ARRAYED_LIST.
-			history := create {ARRAYED_LIST[COMMAND]}.make (0)
-		end
-
-feature -- history
-	history: LIST[COMMAND]
-
-	extend_history(new_cmd: COMMAND)
-			-- Remove all operations to the right of the current
-			-- cursor to history, then extend with the new command.
-		do
-		end
-
-	remove_right
-			--Remove all elements to the right of the current cursor in history.
-		local
-			curse: INTEGER
-			current_cursor: INTEGER
-		do
-			current_cursor := history.index
-			from
-				curse := history.count
-			until
-				curse = current_cursor
-			loop
-				history.go_i_th (curse)
-				history.remove
-				curse := curse - 1
-			end
-		end
-
-	item: COMMAND
-			-- Item at the current cursor position.
-		do
-			Result := history[history.index]
-		end
-
-	on_item: BOOLEAN
-			-- Is cursor at a valid position?
-		do
-			Result := history.index < history.count and history.index >= history.lower
-		end
-
-	forth
-			-- Move the cursor forward.
-		do
-			history.forth
-		end
-
-	back
-			-- Move the cursor backward.
-		do
-			history.back
-		end
-
-	is_empty: BOOLEAN
-			-- Is there at least one command in the history?
-		do
-			Result := history.is_empty
-		end
-
-	is_last: BOOLEAN
-			-- Is cursor at the last position?
-		do
-			Result := history.islast
-		end
-
-end
+Decrypt it at https://encipher.it
