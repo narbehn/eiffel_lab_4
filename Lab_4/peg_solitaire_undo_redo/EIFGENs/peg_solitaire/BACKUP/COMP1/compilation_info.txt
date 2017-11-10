@@ -1,0 +1,5 @@
+Compiler version: 17.05.10.0416 GPL Edition - linux-x86-64
+Type: Quick_melt
+batch mode: False
+new session: True
+starting date: 11/08/2017 2:22:05.351 PM
