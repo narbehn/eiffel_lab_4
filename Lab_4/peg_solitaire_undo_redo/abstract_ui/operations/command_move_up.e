@@ -1,28 +1,13 @@
-note
-	description: "Summary description for {COMMAND_MOVE_LEFT}."
-	author: ""
-	date: "$Date$"
-	revision: "$Revision$"
+EnCt22d5fac3780551f6f3ed0040471dfa4d656f292a52d5fac3780551f6f3ed00404HFrs2QcSlAE
+BJjNDBVqcmlq8p+0V7rSKVMOolvnNafPTI58pbIeZI2ftx6D+ygfpHsAn0jAUVLjh8UMcycOfx/++lbR
+ynAuNYWiyyF+4YfYSXp4jIza4D++VFD9JiiSUMNa7M4V8PtHMDaJSvuvKGHEYGn+KWj8yGPTUNDns5Qe
+p8CZlSzZW8ZYUkgtgp1pfs0+ME6KaD2poqAGTEcY3TR+z0g+naCbhz+vqH3KwS2XwSeOF84Ig97buo3w
+LJujysglISksxI3g3EKggY3qg4OswYxVQeAmEcvbwZGpYC4U+Ch2XldevOFHHF0XnUQlsNY9M433anB9
+qAV+1lSnStyoZT8d4lPEbhlqBLim3zbJU7JEH/u+fvc8eihWPJEzafglp15ornz4eyfBIO4iXvq7xixf
+Vir4pJ5fI7J3k2SIRK+4+FLOb+s6fzvp8MjQYkfgEsJZTDYuxADDjHLxPK1FHmidCz2lp+1ZNeTb3aL8
+R5dRny49XOLs34eAsqWB8iLfxWnYJG1mD7cv6QG9zD+7w4b+7u/47nIMPjPMFUyuKZ8rbMXB5giNh4Ym
+pU0hdBbj9x0D1MexAjNuGCjw6YASJxUKd1WfKCiIUx6/Q/JCbScyUMN4v0Y43RLJwNnJjCuicfpB03Xs
+YUrUOSaOxwqNpHenhyIqn9eqBOGfeFx7BEz0r6rReS4cSG7jvgxkUxhky+UUuXCD/FssbtnyAutpm2RH
+AQoTR5jIxj/ORgargB2ZnVG9iIwEmS
 
-class
-	COMMAND_MOVE_UP
-
-inherit
-	COMMAND
-
-create
-	make
-
-feature -- operations of the command
-	execute
-		do
-		end
-
-	undo
-		do
-		end
-
-	redo
-		do
-		end
-end
+Decrypt it at https://encipher.it
